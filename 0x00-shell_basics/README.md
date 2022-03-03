@@ -9,3 +9,4 @@ script mv moves file betty from /tmp/ to /tmp/my_first_directory
 script rm deletes betty file heretofore referrenced
 script rmdir removes /tmp/my_first_directory/
 script cd /var  changes directory to previous
+script ls -al 
