@@ -8,3 +8,4 @@ script mkdir /tmp/my_first_directory/ creates directory in tmp
 script mv moves file betty from /tmp/ to /tmp/my_first_directory
 script rm deletes betty file heretofore referrenced
 script rmdir removes /tmp/my_first_directory/
+script cd .. changes directory to previous
