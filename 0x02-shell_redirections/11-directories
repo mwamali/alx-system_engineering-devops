@@ -1,0 +1,2 @@
+#!/bin/bash
+fnd ./* type d - print | wc -l
